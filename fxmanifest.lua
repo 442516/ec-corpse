@@ -1,6 +1,6 @@
 fx_version 'cerulean'
 game 'gta5'
-
+lua54 'yes'
 author 'EddieCarson'
 description 'Player Loot Script it works for. ox_inventory'
 version '1.0.0'
